@@ -1,6 +1,6 @@
 # Fundamentals of Dask
 
-This repository contains the material for **Talk Python Training course** on Fundamentals Dask.
+This repository contains the material for **Talk Python Training course** on Fundamentals of Dask.
 
 The Python data science stack, consisting of tools like pandas, NumPy, scikit-learn, and many more is extremely powerful, but it rarely leverages the parallel computing potential of modern hardware. Dask can help bridge this gap. This course will teach you how to parallelize everything from array computations to general Python code with Dask and even perform distributed machine learning to train models at scale.
 
